@@ -1,0 +1,408 @@
+/*
+Theme Name: osteopati
+Text Domain: osteopati
+Version: 1
+Description: tema personalizzato per la pagina di un osteopata
+Tags: osteopatia, sanitá, pulito, blu
+Author: Luca Martinelli
+Author URI: 
+*/
+
+
+
+/* VARIABLES ---------------------- */
+:root {
+    /* sizing */
+    --heightHeader: 100px;
+    /* font */
+    --primaryFont: 'Roboto', sans-serif;
+    --secondaryFont: 'Roboto Mono', monospace;
+    /* color */
+    --primaryColor--dark: #17415F;
+    --primaryColor--standard: #046791;
+    --primaryColor--light: #118BC0;
+    --secondaryColor: #EEFAFE;
+    --secondaryColorGrey: #B9C6CF;
+    --alertColor: #29ACE5;
+    --inkcolor: #333333;
+    /* border-radius */
+    --intern--borderRadius: 5px;
+    --external--borderRadius: 10px;
+    /* shadow */
+    --shadow1: rgba(0, 0, 0, 0.23) 0px 1px 6px, rgba(0, 0, 0, 0.23) 0px 1px 2px;
+    --shadow2: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    --shadow3: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    --shadow4: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
+
+/* MY CLASSES --------------------------- */
+/* button */
+.my--button,
+.my--buttonCard {
+    font-weight: 900 !important;
+    text-transform: uppercase !important;
+    border: 1px solid var(--primaryColor--dark) !important;
+    border-radius: var(--intern--borderRadius) !important;
+}
+.my--button {
+    color: var(--secondaryColor) !important;
+    background-color: var(--primaryColor--light) !important;
+    box-shadow: var(--shadow2) !important;
+}
+.my--button:focus,
+.my--button:active,
+.my--button:hover {
+    color: var(--secondaryColor) !important;
+    background-color: var(--alertColor) !important; 
+    box-shadow: var(--shadow4) !important;
+}
+.my--buttonCard {
+    width: 100%;
+    color: var(--secondaryColor) !important;
+    background-color: var(--primaryColor--standard) !important;
+    box-shadow: var(--shadow1) !important;
+}
+.my--buttonCard:focus,
+.my--buttonCard:active,
+.my--buttonCard:hover {
+    color: var(--primaryColor--dark) !important;
+    background-color: var(--secondaryColor) !important; 
+    box-shadow: var(--shadow3) !important;
+}
+/* animations */
+.fade-in-left.active {
+    animation-name: fade-in-left;
+}
+.fade-in-right.active {
+    animation-name: fade-in-right;
+}
+.fade-in-down.active {
+    animation-name: fade-in-down;
+}
+.show.active {
+    animation-name: show;
+}
+.duration1 {
+    animation-duration: 1s;
+}
+.duration2 {
+    animation-duration: 2s;
+}
+.duration3 {
+    animation-duration: 3s;
+}
+.duration4 {
+    animation-duration: 4s;
+}
+
+
+/* GENERAL ------------------------------ */
+/* sections bg */
+#jumbotron,
+#osteopathy,
+#osteoPage__main,
+#whoIam,
+#whoIamPage__main,
+#products,
+#productsPage__main,
+#contacsPage__maps {
+    background: var(--secondaryColor);
+}
+#reviews,
+#contacts,
+#contactsPage__main {
+    background-color: var(--primaryColor--dark);
+}
+
+/* titles */
+h1,
+h2 {
+    color: var(--primaryColor--dark);
+}
+h1,
+h2,
+h3 {
+    font-family: var(--secondaryFont);
+    font-weight: 900;
+}
+/* for the subtitles of the sections */
+.jumbotron__subtitle,
+.treatments__subtitle,
+.contacts__subtitle {
+    color: var(--primaryColor--standard);
+    font-size: medium;
+    font-weight: 500;
+}
+.contacts__title, 
+.contacts__subtitle {
+    color: var(--secondaryColor);
+}
+
+/* img */
+img {
+    width: auto;
+    border-radius: var(--intern--borderRadius);
+    box-shadow: var(--shadow2);
+}
+
+
+/* BODY ------------------------------------ */
+body {
+    color: var(--inkcolor);
+    font-size: 100%;
+    font-family: var(--primaryFont);
+}
+/* HEADER */
+.header {
+    background-color: var(--secondaryColor);
+    box-shadow: var(--shadow1);
+}
+.header:hover {
+    box-shadow: var(--shadow2);
+    transition: 0.5s;
+}
+.header--link {
+    color: var(--primaryColor--dark);
+    font-size: larger;
+}
+.header--link:active, 
+.header--link:focus, 
+.header--link:hover {
+    color: var(--alertColor) !important;
+}
+
+/* MAIN */
+/* banner */
+.banner {
+    color: var(--secondaryColor);
+    background-color: var(--primaryColor--dark);
+}
+.banner-light {
+    color: var(--primaryColor--dark);
+    background-color: var(--secondaryColor);
+}
+/* section__reviews */
+.rowReviwes__reviewCard {
+    background-color: var(--secondaryColorGrey);
+    border-radius: var(--intern--borderRadius);
+    box-shadow: var(--shadow2);
+}
+.rowReviwes__reviewCard:hover, 
+.rowReviwes__reviewCard:focus, 
+.rowReviwes__reviewCard:active {
+    background-color: var(--secondaryColor);
+    box-shadow: var(--shadow4);
+    transition: 0.5s;
+}
+.rowReviwes__reviewCard:hover .review__star, 
+.rowReviwes__reviewCard:focus .review__star, 
+.rowReviwes__reviewCard:active .review__star,
+.rowReviwes__reviewCard:hover .review__quote, 
+.rowReviwes__reviewCard:focus .review__quote, 
+.rowReviwes__reviewCard:active .review__quote {
+    fill: var(--alertColor);
+    transition: 0.5s;
+}
+.rowReviwes__reviewCard:hover .info__nameAuthor, 
+.rowReviwes__reviewCard:focus .info__nameAuthor, 
+.rowReviwes__reviewCard:active .info__nameAuthor,
+.rowReviwes__reviewCard:hover .info__treatmentAuthor, 
+.rowReviwes__reviewCard:focus .info__treatmentAuthor, 
+.rowReviwes__reviewCard:active .info__treatmentAuthor {
+    color: var(--primaryColor--standard);
+}
+.infoAuthor__profilePicture img {
+    width: 100px;
+}
+.info__nameAuthor,
+.info__treatmentAuthor {
+    color: var(--primaryColor--dark);
+}
+.info__nameAuthor {
+    font-size: large;
+    font-weight: 500;
+}
+.info__treatmentAuthor {
+    font-size: small;
+    font-style: italic;
+}
+.review__quote,
+.review__star {
+    width: 20px;
+}
+.review__quote {
+    fill: var(--primaryColor--standard);
+}
+.review__star {
+    margin: 5px;
+    fill: var(--primaryColor--standard);
+}
+/* section__prodcucts */
+.products__step {
+    margin: 1rem;
+    color: var(--primaryColor--dark);
+    background-color: var(--secondaryColorGrey);
+    border-radius: 5px;
+    box-shadow: var(--shadow2);
+    cursor: pointer;
+}
+.products__step:hover, 
+.products__step:active, 
+.products__step:focus {
+    color: var(--secondaryColor);
+    background-color: var(--primaryColor--dark);
+    transition: 0.5s;
+    box-shadow: var(--shadow4);
+}
+.step__left::before {
+    content: "";
+    height: 100%;
+    border: 5px solid var(--alertColor);
+    position: absolute;
+    top: 0;
+    left: 100%;
+    transform: translate(-50%, 0%);
+}
+.step__left::after {
+    content: "";
+    width: 30px;
+    height: 30px;
+    color: var(--secondaryColorGrey);
+    background-color: var(--primaryColor--dark);
+    border: 5px solid var(--alertColor);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:50%;
+    left:100%;
+    transform: translate(-50%, -50%);
+}
+.step__right::before {
+    content: "";
+    height: 100%;
+    border: 5px solid var(--alertColor);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(-50%, 0%);
+}
+.step__right::after {
+    content: "";
+    width: 30px;
+    height: 30px;
+    color: var(--secondaryColorGrey);
+    background-color: var(--primaryColor--dark);
+    border: 5px solid var(--alertColor);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:50%;
+    left: 0;
+    transform: translate(-50%, -50%);
+}
+
+/* FOOTER*/ 
+.footer {
+    background-color: var(--primaryColor--dark);
+}
+.footer h2 {
+    color: var(--secondaryColor);
+    cursor: pointer;
+}
+.footer a {
+    color: var(--secondaryColor);
+    text-decoration: none;
+}
+.footer a:hover {
+    color: var(--alertColor);
+}
+
+
+/* KEYFRAMES */
+@keyframes fade-in-left {
+    0%   {transform: translateX(-200px); opacity: 0;}
+    100% {transform: translateX(0); opacity: 1;}
+  }
+@keyframes fade-in-right {
+    0%   {transform: translateX(200px); opacity: 0;}
+    100% {transform: translateX(0); opacity: 1;}
+  }
+@keyframes fade-in-down {
+    0%   {transform: translateY(100px); opacity: 0;}
+    100% {transform: translateY(0); opacity: 1;}
+  }
+@keyframes show {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+  }
+
+
+@media screen and (min-width: 768px) {
+    .products__step {
+        width: 50%;
+        margin: 0;
+    }
+    .lastBanner__button {
+        width: 100%;
+    }
+  }
+
+  /* PRODUCTS__PAGE */
+.rowProducts__productCard {
+    background-color: var(--primaryColor--dark);
+    border-radius: var(--intern--borderRadius);
+    box-shadow: var(--shadow2);
+}
+.rowProducts__productCard:hover, 
+.rowProducts__productCard:focus, 
+.rowProducts__productCard:active {
+    background-color: var(--secondaryColorGrey);
+    box-shadow: var(--shadow4);
+    transition: 0.5s;
+}
+.rowProducts__productCard:hover .info__nameProduct, 
+.rowProducts__productCard:focus .info__nameProduct, 
+.rowProducts__productCard:active .info__nameProduct,
+.rowProducts__productCard:hover .info__treatment, 
+.rowProducts__productCard:focus .info__treatment, 
+.rowProducts__productCard:active .info__treatment {
+    color: var(--primaryColor--dark);
+}
+.infoProduct__profilePicture img {
+    width: 100px;
+}
+.info__nameProduct,
+.info__treatment {
+    color: var(--secondaryColor);
+}
+.info__nameProduct {
+    font-size: large;
+    font-weight: 500;
+}
+.info__treatment {
+    font-size: small;
+    font-style: italic;
+}
+
+/* CONTACTS__PAGE */
+#contacsPage__maps {
+border-radius: var(--external--borderRadius);
+}
+#contacsPage__maps a {
+    color: var(--primaryColor--dark);
+    text-decoration: none;
+}
+#contacsPage__maps a:hover {
+    color: var(--alertColor);
+}
+#contacsPage__maps iframe {
+    border-radius: var(--intern--borderRadius);
+    box-shadow: var(--shadow1);
+}
+
+
