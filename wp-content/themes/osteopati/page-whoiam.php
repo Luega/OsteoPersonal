@@ -14,7 +14,7 @@
                 </div>
                 <!-- right -->
                 <div class="col-12 col-lg-7 ps-lg-5 d-flex flex-column justify-content-center">
-                    <h1 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Chi sono?</h1>
+                    <h1 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Vem jag är?</h1>
                     <p class="myAnimation fade-in-right duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
                 </div>
             </div>
@@ -31,7 +31,7 @@
             <div class="row m-5">
                 <div class="col-12 col-lg-7 m-auto mt-5 d-flex justify-content-center">
                     <form class="w-100" action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                        <button class="p-3 w-100 btn my--button myAnimation show duration3">BOOK NOW</button>
+                        <button class="p-3 w-100 btn my--button myAnimation show duration3">BOKA NU</button>
                     </form>
                 </div>
             </div>

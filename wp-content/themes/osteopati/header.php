@@ -27,13 +27,13 @@
                                 <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/home/">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/osteopathy/">Osteopatia</a>
+                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/osteopathy/">Osteopati</a>
                             </li>
                             <li class="nav-item">
-                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/whoiam/">Chi sono</a>
+                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/whoiam/">Vem jag är?</a>
                             </li>
                             <li class="nav-item">
-                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/products/">Trattamenti</a>
+                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/products/">Behandlingen</a>
                             </li>
                             <li class="nav-item">
                                 <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/contacts/">Contatti</a>
@@ -41,7 +41,7 @@
                         </ul>
                         <!-- button cta -->
                         <form class="m-lg-auto m-lg-0 d-flex" action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                            <button class="container-lg m-auto btn my--button" type="submit">BOOK NOW</button>
+                            <button class="container-lg m-auto btn my--button" type="submit">BOKA NU</button>
                         </form>
                   </div>
                 </div>

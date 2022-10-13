@@ -41,9 +41,17 @@
                 <div class="row">
                     <!-- left -->
                     <div class="col-12 col-lg-7 pe-lg-5">
-                        <h2 class="mb-3 text-uppercase myAnimation fade-in-left duration1">L'osteopatia</h2>
-                        <p class="myAnimation fade-in-left duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
-                        <button class="mb-2 btn my--button myAnimation fade-in-left duration3" onclick="window.location.href='http://localhost/osteo_wp/osteopathy/';">READ MORE</button>
+                        <h2 class="mb-3 text-uppercase myAnimation fade-in-left duration1">osteopati</h2>
+                        <p class="myAnimation fade-in-left duration2">Osteopati är en form av manuell medicin som är grundad av Andrew Taylor Still på 1870-talet. <br>
+                        Det är en behandlingsform där vi använder oss av manuella behandlingsmetoder för att behandla kroppens obalanser och felfunktioner. <br>
+                        Målet är att skapa bästa möjliga förutsättningar för hälsa och välmående. <br>
+                        Osteopati bygger på teorin att kroppen är en enhet som ska vara i balans. <br>
+                        <br>
+                        Kiropraktik och Naprapati har båda sina rötter i osteopatin. <br>
+                        <br>
+                        Osteopater behandlar framförallt besvär relaterade till rörelseorganen (muskler, leder, skelett och nervsystem) och intresserar sig för hur dessa system påverkar hälsan. Psykologiska och sociala faktorer är också en del i diagnosen.
+                        </p>
+                        <button class="mb-2 btn my--button myAnimation fade-in-left duration3" onclick="window.location.href='http://localhost/osteo_wp/osteopathy/';">LÄS MER</button>
                     </div>
                     <!-- right -->
                     <div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
@@ -165,7 +173,7 @@
                     </div>
                     <!-- right -->
                     <div class="col-12 col-lg-7 ps-lg-5">
-                        <h2 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Chi sono?</h2>
+                        <h2 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Vem jag är?</h2>
                         <p class="myAnimation fade-in-right duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
                         <button class="mb-2 btn my--button myAnimation fade-in-right duration3" onclick="window.location.href='http://localhost/osteo_wp/whoiam/';">READ MORE</button>
                     </div>
@@ -193,8 +201,8 @@
                 <!-- title -->
                 <div class="row pt-5">
                     <div class="col-12 d-flex flex-column justify-content-center align-items-center">
-                        <h2 class="mb-2 text-uppercase myAnimation show duration2">Trattamenti</h2>
-                        <h3 class="mb-4 jumbotron__subtitle myAnimation show duration3 text-center">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h3>
+                        <h2 class="mb-2 text-uppercase myAnimation show duration2">behandlingen</h2>
+                        <h3 class="mb-4 jumbotron__subtitle myAnimation show duration3 text-center">Undersökning och behandling anpassas till just dig.</h3>
                     </div>
                 </div>
                 <!-- products steps -->
@@ -202,43 +210,45 @@
                     <!-- step 1 -->
                     <div class="col-12 myAnimation fade-in-left duration4" onclick="window.location.href='http://localhost/osteo_wp/products/';">
                         <div class="products__step position-relative step__left p-5">
-                            <h4>Anamnesi</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Anamnes</h4>
+                            <p class="m-0">Vid ditt första besök görs en genomgång av dina besvär och medicinska historia. Även livsstil, arbete, stress, sömn, kost och fysisk aktivitet beaktas. Denna genomgång kallas anamnes och kan översättas till ”sjukdomshistoria”.</p>
                         </div>
                     </div>
                     <!-- step 2 -->
                     <div class="col-12 d-md-flex justify-content-md-end myAnimation fade-in-right duration4" onclick="window.location.href='http://localhost/osteo_wp/products/';">
                         <div class="products__step position-relative step__right p-5">
-                            <h4>Test</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Fysisk undersökning</h4>
+                            <p class="m-0">Osteopaten genomför sedan en fysisk undersökning vilket innefattar att titta på kroppen som helhet, palpera (känna) på olika områden, testa rörligheten i olika delar av kroppen både stående, sittande och liggande samt när det behövs utförs också neurologisk och ortopedisk undersökning.</p>
                         </div>
                     </div>
                     <!-- step 3 -->
                     <div class="col-12 myAnimation fade-in-left duration4" onclick="window.location.href='http://localhost/osteo_wp/products/';">
                         <div class="products__step position-relative step__left p-5">
-                            <h4>Screening posturale</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Postural screening</h4>
+                            <p class="m-0">Därefter följer den osteopatiska undersökningen där osteopaten får information om din kroppshållning, eventuella felfunktioner och kompensationsmönster.</p>
                         </div>
                     </div>
                     <!-- step 4 -->
                     <div class="col-12 d-md-flex justify-content-md-end myAnimation fade-in-right duration4" onclick="window.location.href='http://localhost/osteo_wp/products/';">
                         <div class="products__step position-relative step__right p-5">
-                            <h4>Diagnosi</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Diagnos</h4>
+                            <p class="m-0">En diagnos görs som mot bakgrund av anamnesen bygger på lokala och globala fynd i kroppen. De lokala fynden kan t.ex. handla om vilken vävnad som är påverkad och de globala fynden kan vara faktorer i din hållning eller snedbelastningar som har gjort att du belastar det utsatta området mer.</p>
                         </div>
                     </div>
                     <!-- step 5 -->
                     <div class="col-12 myAnimation fade-in-left duration4">
                         <div class="products__step position-relative step__left p-5" onclick="window.location.href='http://localhost/osteo_wp/products/';">
-                            <h4>Trattamento</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Behandling</h4>
+                            <p class="m-0">Behandlingen anpassas till dina behov och förutsättningar. Du kan också få råd om träning, kost, ergonomi och stresshantering. After the treatment, it may be good to take it easy and not perform any strenuous activities on the same day so that the body has a chance to adapt to the change.
+                            It is between the treatments that the healing takes place. The treatment aims to remove obstacles to healing.</p>
                         </div>
                     </div>
                     <!-- step 6 -->
                     <div class="col-12 d-md-flex justify-content-md-end myAnimation fade-in-right duration4 pb-5" onclick="window.location.href='http://localhost/osteo_wp/products/';">
                         <div class="products__step position-relative step__right p-5">
-                            <h4>Creazione piano terapeutico</h4>
-                            <p class="m-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod autem in a sint</p>
+                            <h4>Skapa terapiplan</h4>
+                            <p class="m-0">Osteopaten diskuterar diagnosen samt möjliga behandlingsmetoder med dig. I vissa fall kan en läkarundersökning föreslås innan behandling påbörjas. <br> 
+                            Vid återbesök görs en uppföljning av vad som har hänt efter den förra behandlingen och förändringar av symtomen.</p>
                         </div>
                     </div>
                 </div>
