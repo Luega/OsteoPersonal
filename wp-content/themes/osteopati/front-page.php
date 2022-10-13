@@ -41,7 +41,7 @@
                 <div class="row">
                     <!-- left -->
                     <div class="col-12 col-lg-7 pe-lg-5">
-                        <h1 class="mb-3 text-uppercase myAnimation fade-in-left duration1">L'osteopatia</h1>
+                        <h2 class="mb-3 text-uppercase myAnimation fade-in-left duration1">L'osteopatia</h2>
                         <p class="myAnimation fade-in-left duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
                         <button class="mb-2 btn my--button myAnimation fade-in-left duration3" onclick="window.location.href='http://localhost/osteo_wp/osteopathy/';">READ MORE</button>
                     </div>
@@ -165,7 +165,7 @@
                     </div>
                     <!-- right -->
                     <div class="col-12 col-lg-7 ps-lg-5">
-                        <h1 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Chi sono?</h1>
+                        <h2 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Chi sono?</h2>
                         <p class="myAnimation fade-in-right duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
                         <button class="mb-2 btn my--button myAnimation fade-in-right duration3" onclick="window.location.href='http://localhost/osteo_wp/whoiam/';">READ MORE</button>
                     </div>
@@ -193,7 +193,7 @@
                 <!-- title -->
                 <div class="row pt-5">
                     <div class="col-12 d-flex flex-column justify-content-center align-items-center">
-                        <h1 class="mb-2 text-uppercase myAnimation show duration2">Trattamenti</h1>
+                        <h2 class="mb-2 text-uppercase myAnimation show duration2">Trattamenti</h2>
                         <h3 class="mb-4 jumbotron__subtitle myAnimation show duration3 text-center">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h3>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
                         <!-- titles -->
                         <div>
                             <div>
-                                <h1 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h1>
+                                <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h2>
                             </div>
                             <div>
                                 <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Fai il il primo passo chiedendomi informazioni</h3>
@@ -264,7 +264,7 @@
                     <!-- right -->
                     <div class="col-11 col-lg-5">
                         <!-- form with formsubmit -->
-                        <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST"  target="_blank">
+                        <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST">
                             <input type="hidden" name="_subject" value="New OsteoMessage!">
                             <input type="hidden" name="_autoresponse" value="Il tuo messaggio é stato spedito correttamente">
                             <input class="w-100" type="text" name="name" placeholder="Full Name" required>

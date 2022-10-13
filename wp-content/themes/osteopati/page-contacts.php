@@ -49,7 +49,7 @@
                     <!-- titles -->
                     <div>
                         <div>
-                            <h1 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h1>
+                            <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h2>
                         </div>
                         <div>
                             <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Fai il il primo passo chiedendomi informazioni</h3>
@@ -59,7 +59,7 @@
                 <!-- right -->
                 <div class="col-11 col-lg-5">
                     <!-- form with formsubmit -->
-                    <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST" target="_blank">
+                    <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST">
                         <input type="hidden" name="_subject" value="New OsteoMessage!">
                         <input type="hidden" name="_autoresponse" value="Il tuo messaggio é stato spedito correttamente">
                         <input class="w-100" type="text" name="name" placeholder="Full Name" required>
