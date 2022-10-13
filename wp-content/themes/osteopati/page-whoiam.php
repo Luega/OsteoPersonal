@@ -29,7 +29,7 @@
                 </div>
             </div>
             <div class="row m-5">
-                <div class="col-12 col-lg-7 m-auto d-flex justify-content-center">
+                <div class="col-12 col-lg-7 m-auto mt-5 d-flex justify-content-center">
                     <form class="w-100" action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
                         <button class="p-3 w-100 btn my--button myAnimation show duration3">BOOK NOW</button>
                     </form>
