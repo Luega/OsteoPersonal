@@ -10,10 +10,10 @@
                 <div class="row pt-5">
                     <!-- left -->
                     <div class="col-12 col-lg-7">
-                        <h1 class="mb-2 text-uppercase myAnimation fade-in-left duration1">Riscopri te stesso</h1>
-                        <h3 class="mb-4 jumbotron__subtitle myAnimation fade-in-left duration2">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h3>
+                        <h1 class="mb-2 text-uppercase myAnimation fade-in-left duration1">OSTEOPAT I STOCKHOLM</h1>
+                        <h3 class="mb-4 jumbotron__subtitle myAnimation fade-in-left duration2">Den bästa manuella terapin för att återfå välbefinnande och bekämpa stress.</h3>
                         <form action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                            <button class="mb-2 btn my--button myAnimation fade-in-left duration3" type="submit">BOOK NOW</button>
+                            <button class="mb-2 btn my--button myAnimation fade-in-left duration3" type="submit">BOKA NU</button>
                         </form>
                     </div>
                     <!-- right -->
@@ -30,7 +30,7 @@
         <div class="banner container-fluid py-2 text-center">
             <div class="row">
                 <div class="col">
-                    <h4 class="m-0">Sentrirsi bene é una scelta</h4>
+                    <h4 class="m-0">Att må bra är ett val</h4>
                 </div>
             </div>
         </div>
@@ -76,15 +76,15 @@
                             </div>
                             <!-- name and treatment -->
                             <div class="infoAuthor__info w-50 d-flex flex-column justify-content-center">
-                                <span class="info__nameAuthor">Ettore Barbuto</span>
-                                <span class="info__treatmentAuthor">Trattamento provato: Rehab Training</span>
+                                <span class="info__nameAuthor">Johan F.</span>
+                                <span class="info__treatmentAuthor">Strukturell osteopati</span>
                             </div>
                         </div>
                         <!-- bottom review text -->
                         <div class="mt-4 p-2 d-flex flex-column justify-content-between">
                             <p>
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V320 288 216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H320c-35.3 0-64-28.7-64-64V320 288 216z"/></svg>
-                            Lorem ipsum dolor sit amet. Ut odit debitis At voluptates recusandae ut quas architecto sit perspiciatis aperiam ut deleniti Quis officiis. At sint amet qui ipsam rerum aut molestias iusto est consequuntur molestiae qui expedita recusandae rem iste omnis non voluptate perspiciatis. Vel iste repellendus iusto omnis est culpa omnis!
+                            Luca är helt fantastisk, så kunnig, professionell och resultaten är fantastiska. En vän rekommenderade honom och därför gick jag till honom för mina dåliga rygg- och nackproblem. Efter undersökning och två behandlingar känner jag mig redan som en ny människa. Fantastisk. Jag kan varmt rekommendera Luca!
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M448 296c0 66.3-53.7 120-120 120h-8c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H320c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72zm-256 0c0 66.3-53.7 120-120 120H64c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H64c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72z"/></svg>
                             </p>
                         </div>
@@ -107,15 +107,15 @@
                             </div>
                             <!-- name and treatment -->
                             <div class="infoAuthor__info w-50 d-flex flex-column justify-content-center">
-                                <span class="info__nameAuthor">Claudia Mugnano</span>
-                                <span class="info__treatmentAuthor">Trattamento provato: Osteopathy</span>
+                                <span class="info__nameAuthor">Jin P.</span>
+                                <span class="info__treatmentAuthor">Strukturell osteopati</span>
                             </div>
                         </div>
                         <!-- bottom review text -->
                         <div class="mt-4 p-2 d-flex flex-column justify-content-between">
                             <p>
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V320 288 216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H320c-35.3 0-64-28.7-64-64V320 288 216z"/></svg>
-                            Lorem ipsum dolor sit amet. Ut odit debitis At voluptates recusandae ut quas architecto
+                            Osteopat Luca har hjälp mig otroligt mycket med min axel som jag knappt kunde röra. Med hans behandling och övningar anpassade till min rörlighet är jag nu mycket bättre.
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M448 296c0 66.3-53.7 120-120 120h-8c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H320c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72zm-256 0c0 66.3-53.7 120-120 120H64c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H64c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72z"/></svg>
                             </p>
                         </div>
@@ -138,15 +138,15 @@
                             </div>
                             <!-- name and treatment -->
                             <div class="infoAuthor__info w-50 d-flex flex-column justify-content-center">
-                                <span class="info__nameAuthor">Roberta Speranza</span>
-                                <span class="info__treatmentAuthor">Trattamento provato: Osteopathy</span>
+                                <span class="info__nameAuthor">Matilda L.</span>
+                                <span class="info__treatmentAuthor">Kraniell osteopati</span>
                             </div>
                         </div>
                         <!-- bottom review text -->
                         <div class="mt-4 p-2 d-flex flex-column justify-content-between">
                             <p>
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M0 216C0 149.7 53.7 96 120 96h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V320 288 216zm256 0c0-66.3 53.7-120 120-120h8c17.7 0 32 14.3 32 32s-14.3 32-32 32h-8c-30.9 0-56 25.1-56 56v8h64c35.3 0 64 28.7 64 64v64c0 35.3-28.7 64-64 64H320c-35.3 0-64-28.7-64-64V320 288 216z"/></svg>
-                            Lorem ipsum dolor sit amet. Ut odit debitis At voluptates recusandae ut quas architecto sit perspiciatis erspiciatis. Vel iste repellendus iusto omnis est culpa omnis!
+                            Gick in med väldigt återhållen nacke och smärta, kunde knappt röra huvudet. Gick ut med rörlighet åt alla håll. Och praktiskt taget fri från smärta. Luca är ”gå till”-lösningen när självhjälp inte räcker till (yoga, stretching, träning, massagepistol etc.). Jag återkommer alltid när det behövs, och Luca ser till att du inte behöver det särskilt ofta. Professionell och skicklig. Du är i trygga händer. Min varmaste rekommendation.
                             <svg class="review__quote" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M448 296c0 66.3-53.7 120-120 120h-8c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H320c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72zm-256 0c0 66.3-53.7 120-120 120H64c-17.7 0-32-14.3-32-32s14.3-32 32-32h8c30.9 0 56-25.1 56-56v-8H64c-35.3 0-64-28.7-64-64V160c0-35.3 28.7-64 64-64h64c35.3 0 64 28.7 64 64v32 32 72z"/></svg>
                             </p>
                         </div>
@@ -175,7 +175,7 @@
                     <div class="col-12 col-lg-7 ps-lg-5">
                         <h2 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Vem jag är?</h2>
                         <p class="myAnimation fade-in-right duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
-                        <button class="mb-2 btn my--button myAnimation fade-in-right duration3" onclick="window.location.href='http://localhost/osteo_wp/whoiam/';">READ MORE</button>
+                        <button class="mb-2 btn my--button myAnimation fade-in-right duration3" onclick="window.location.href='http://localhost/osteo_wp/whoiam/';">LÄS MER</button>
                     </div>
                 </div>
             </div>
@@ -185,11 +185,11 @@
         <div class="banner container-fluid py-2 text-center">
             <div class="row">
                 <div class="col-7 d-flex justify-content-end align-items-center">
-                    <h4 class="m-0">Vuoi provare un trattamento?</h4>
+                    <h4 class="m-0">Vill du testa en behandling?</h4>
                 </div>
                 <div class="col-5 d-flex justify-content-start align-items-center">
                     <form action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                        <button class="btn my--button">BOOK NOW</button>
+                        <button class="btn my--button">BOKA NU</button>
                     </form>      
                 </div>
             </div>
@@ -264,10 +264,10 @@
                         <!-- titles -->
                         <div>
                             <div>
-                                <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h2>
+                                <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Kom tillbaka till hälsan med mig</h2>
                             </div>
                             <div>
-                                <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Fai il il primo passo chiedendomi informazioni</h3>
+                                <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Ta det första steget genom att be mig om information</h3>
                             </div>
                         </div>
                     </div>
@@ -275,12 +275,12 @@
                     <div class="col-11 col-lg-5">
                         <!-- form with formsubmit -->
                         <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST">
-                            <input type="hidden" name="_subject" value="New OsteoMessage!">
-                            <input type="hidden" name="_autoresponse" value="Il tuo messaggio é stato spedito correttamente">
-                            <input class="w-100" type="text" name="name" placeholder="Full Name" required>
-                            <input class="w-100 my-3" type="email" name="email" placeholder="Email Address" required>
-                            <textarea class="w-100" name="textarea" placeholder="Message..." required cols="30" rows="10"></textarea>
-                            <button type="submit" class="w-100 mt-3 py-3 px-5 btn my--button text-uppercase myAnimation fade-in-left duration3">send the message</button>
+                            <input type="hidden" name="_subject" value="Nytt osteopatmeddelande!">
+                            <input type="hidden" name="_autoresponse" value="Ditt meddelande har skickats. Tack!">
+                            <input class="w-100" type="text" name="name" placeholder="Namn och efternamn" required>
+                            <input class="w-100 my-3" type="email" name="email" placeholder="E-postadress" required>
+                            <textarea class="w-100" name="textarea" placeholder="Meddelande..." required cols="30" rows="10"></textarea>
+                            <button type="submit" class="w-100 mt-3 py-3 px-5 btn my--button text-uppercase myAnimation fade-in-left duration3">Skicka meddelandet</button>
                        </form>
                     </div>
                 </div>
@@ -291,11 +291,11 @@
         <div class="banner-light container-fluid py-2 text-center">
             <div class="row p-5 d-flex flex-column align-items-center">
                 <div class="col-7 d-flex justify-content-center align-items-center">
-                    <h4 class="mb-4 fw-bolder text-uppercase myAnimation show duration4">Non aspettare</h4>
+                    <h4 class="mb-4 fw-bolder text-uppercase myAnimation show duration4">Vänta inte</h4>
                 </div>
                 <div class="col-5 d-flex justify-content-center align-items-center">
                     <form class="lastBanner__button" action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                        <button class="lastBanner__button fs-4 p-3 btn my--button myAnimation show duration4">BOOK NOW</button>
+                        <button class="lastBanner__button fs-4 p-3 btn my--button myAnimation show duration4">BOKA NU</button>
                     </form>
                 </div>
             </div>

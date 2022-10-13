@@ -16,7 +16,7 @@
                 </div>
                 <!-- right -->
                 <div class="col-12 col-lg-7 mt-3 mt-lg-0 d-flex flex-column justify-content-center">
-                    <h1 class="mb-3 text-uppercase myAnimation fade-in-right duration1 text-center">CONTATTI</h1>
+                    <h1 class="mb-3 text-uppercase myAnimation fade-in-right duration1 text-center">Kontakt</h1>
                     <div class="myAnimation fade-in-right duration2">
                         <div class="row">
                             <div class="text-center">
@@ -49,10 +49,10 @@
                     <!-- titles -->
                     <div>
                         <div>
-                            <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Torna in salute insieme a me</h2>
+                            <h2 class="contacts__title mb-3 text-uppercase myAnimation fade-in-left duration1">Kom tillbaka till hälsan med mig</h2>
                         </div>
                         <div>
-                            <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Fai il il primo passo chiedendomi informazioni</h3>
+                            <h3 class="contacts__subtitle myAnimation fade-in-left duration3">Ta det första steget genom att be mig om information</h3>
                         </div>
                     </div>
                 </div>
@@ -60,12 +60,12 @@
                 <div class="col-11 col-lg-5">
                     <!-- form with formsubmit -->
                     <form action="https://formsubmit.co/42f9374e798f52d433b25cde35b05c72" method="POST">
-                        <input type="hidden" name="_subject" value="New OsteoMessage!">
-                        <input type="hidden" name="_autoresponse" value="Il tuo messaggio é stato spedito correttamente">
-                        <input class="w-100" type="text" name="name" placeholder="Full Name" required>
-                        <input class="w-100 my-3" type="email" name="email" placeholder="Email Address" required>
-                        <textarea class="w-100" name="textarea" placeholder="Message..." required cols="30" rows="10"></textarea>
-                        <button type="submit" class="w-100 mt-3 py-3 px-5 btn my--button text-uppercase myAnimation fade-in-left duration3">send the message</button>
+                        <input type="hidden" name="_subject" value="Nytt osteopatmeddelande!">
+                        <input type="hidden" name="_autoresponse" value="Ditt meddelande har skickats. Tack!">
+                        <input class="w-100" type="text" name="name" placeholder="Namn och efternamn" required>
+                        <input class="w-100 my-3" type="email" name="email" placeholder="E-postadress" required>
+                        <textarea class="w-100" name="textarea" placeholder="Meddelande..." required cols="30" rows="10"></textarea>
+                        <button type="submit" class="w-100 mt-3 py-3 px-5 btn my--button text-uppercase myAnimation fade-in-left duration3">Skicka meddelandet</button>
                     </form>
                 </div>
             </div>
@@ -74,11 +74,11 @@
         <div class="banner-light container-fluid py-2 text-center">
             <div class="row p-5 d-flex flex-column align-items-center">
                 <div class="col-7 d-flex justify-content-center align-items-center">
-                    <h4 class="mb-4 fw-bolder text-uppercase myAnimation show duration4">Non aspettare</h4>
+                    <h4 class="mb-4 fw-bolder text-uppercase myAnimation show duration4">Vänta inte</h4>
                 </div>
                 <div class="col-5 d-flex justify-content-center align-items-center">
                     <form class="lastBanner__button" action="https://www.bokadirekt.se/places/r%C3%B6relsem%C3%B6nster--20143" target="_blank">
-                        <button class="lastBanner__button fs-4 p-3 btn my--button myAnimation show duration4">BOOK NOW</button>
+                        <button class="lastBanner__button fs-4 p-3 btn my--button myAnimation show duration4">BOKA NU</button>
                     </form>
                 </div>
             </div>

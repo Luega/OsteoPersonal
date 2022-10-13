@@ -24,7 +24,7 @@
                     <div class="collapse justify-content-between navbar-collapse" id="navbarSupportedContent">
                         <ul class="m-lg-0 container-lg w-75 justify-content-around navbar-nav mt-3 mb-2 mt-lg-0 mb-lg-0">
                             <li class="nav-item">
-                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/home/">Home</a>
+                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/home/">Hem</a>
                             </li>
                             <li class="nav-item">
                                 <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/osteopathy/">Osteopati</a>
@@ -36,7 +36,7 @@
                                 <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/products/">Behandlingen</a>
                             </li>
                             <li class="nav-item">
-                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/contacts/">Contatti</a>
+                                <a class="header--link nav-link active text-center" aria-current="page" href="http://localhost/osteo_wp/contacts/">Kontakt</a>
                             </li>
                         </ul>
                         <!-- button cta -->
