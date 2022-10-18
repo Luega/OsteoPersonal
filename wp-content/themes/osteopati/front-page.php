@@ -174,7 +174,15 @@
                     <!-- right -->
                     <div class="col-12 col-lg-7 ps-lg-5">
                         <h2 class="mb-3 text-uppercase myAnimation fade-in-right duration1">Vem jag är?</h2>
-                        <p class="myAnimation fade-in-right duration2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, suscipit voluptatum non necessitatibus laborum corrupti beatae mollitia ullam? Ducimus, possimus explicabo! Impedit, repellat ipsum quam officiis enim adipisci eum ea.</p>
+                        <p class="myAnimation fade-in-right duration2">
+                            Jag tog examen från det prestigefyllda International Collage of Osteopathic Medicine 2018 efter en femårig heltidskurs. <br>
+                            <br>
+                            Under denna tid kunde jag studera medicinska ämnen (anatomi, fysiologi, patologi, etc.) och mer osteopatiska ämnen i både teori och praktik, tack vare mina fyra års klinisk praktik.  <br>
+                            <br>
+                            Efter denna period kunde jag öppna min egen privata praktik och samtidigt samarbeta med många terapeutiska och idrottsföretag, inklusive fotbollslag och crossfit-boxar. <br>
+                            <br>
+                            Med den tid och erfarenhet jag samlade på mig insåg jag genast att det skulle vara oerhört viktigt att integrera osteopatiska kunskaper med kunskaperna hos en personlig tränare. <br>
+                        </p>
                         <button class="mb-2 btn my--button myAnimation fade-in-right duration3" onclick="window.location.href='http://localhost/osteo_wp/whoiam/';">LÄS MER</button>
                     </div>
                 </div>
